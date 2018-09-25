@@ -1,0 +1,6 @@
+framework module Pods_Quirkly {
+  umbrella header "Pods-Quirkly-umbrella.h"
+
+  export *
+  module * { export * }
+}
